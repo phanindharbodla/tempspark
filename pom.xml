@@ -39,7 +39,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>net.factset.im.services.ImServices</mainClass>
+                            <mainClass>Main</mainClass>
                             <name>internal</name>
                         </program>
                     </programs>
